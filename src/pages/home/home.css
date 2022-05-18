@@ -1,0 +1,11 @@
+.home{
+   
+    height: 1000px;
+    font-size: 40px;
+}
+.home input{
+    height: 100px;
+    width: 100%;
+    margin: 0 50px 50px 0;
+    background-color: rgb(199, 223, 223);
+}

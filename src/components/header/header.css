@@ -1,0 +1,25 @@
+
+.head{
+  
+}
+.he{
+   display: block;
+   width: 100%;
+   display: flex;
+   line-height: 100px;
+   flex-direction: row;
+   flex-wrap: nowrap;
+   justify-content: space-evenly;
+   
+   font-size:60px;
+   
+}
+.header{
+   height: 100px;
+   display: inline-flex;
+   flex: 1;
+   background-color: rgb(247, 174, 186);
+   text-decoration:none;
+   margin: 0 auto;
+
+}
